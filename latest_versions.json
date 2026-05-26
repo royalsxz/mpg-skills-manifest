@@ -1,1 +1,10 @@
-
+{
+  "kapoq-wbr": {
+    "version": "7.6.4",
+    "released": "2026-05-26"
+  },
+  "pacvue-wbr": {
+    "version": "7.6.4",
+    "released": "2026-05-26"
+  }
+}
